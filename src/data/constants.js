@@ -247,7 +247,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Shopkat",
+    title: "Shopkart",
     date: "August 2023",
     description:
       "Shopkart is a dynamic e-commerce platform revolutionizing online shopping. With a user-friendly interface and seamless navigation, it offers a vast array of products across categories like electronics, fashion, beauty, and more. The website prioritizes user experience, ensuring easy search, secure transactions, and swift checkout. Advanced filters and personalized recommendations enhance product discovery. Shopkart also provides detailed product descriptions and reviews for informed choices. With secure payment gateways and reliable delivery services, it ensures a trusted and convenient shopping experience. Engaging promotions and responsive customer support further elevate the shopping journey, making Shopkart a go-to destination for all online retail needs.",
@@ -256,7 +256,7 @@ export const projects = [
     tags: ["React Js", "Redux", "Firebase", "Firestore", "Node JS"],
     category: "web app",
     github: "https://github.com/learnerthevictor/shopkart",
-    webapp: "https://hungama-clone.netlify.app/",
+    webapp: "https://shopskart.netlify.app/",
   },
 ];
 
